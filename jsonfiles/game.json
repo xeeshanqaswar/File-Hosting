@@ -19,25 +19,6 @@
     ]
   },
   {
-    "name": "GI Joe: Wrath of Cobra",
-    "tagline": "2D Beat'em Up Console Game",
-    "description": [
-      "Cobra is a retro side-scrolling beat 'em up. Play as one of the legendary G.I. JOE characters, including Duke, Scarlett, Roadblock, Snake Eyes, and more. Defeat hordes of Cobra troopers, Vipers, Crimson Guards and more of Cobra's malevolent machinations.",
-      "As the lead developer, my role entails overseeing the comprehensive multiplayer implementation of the game, working in partnership with developers from 'Maple Powered Games', utilizing Photon Fusion for this specific task."
-    ],
-    "client": "-",
-    "date": "01/00/2000",
-    "file":"",
-    "stack": [ "Unity", "Multiplayer", "Console", "AI" ],
-    "thumbnail":"https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/thumbnail.jpg",
-    "itemList": [
-      "hhttps://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/1.jpg",
-      "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/2.jpg",
-      "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/3.jpg",
-      "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/4.jpg"
-    ]
-  },
-  {
     "name": "S.P.A.C.E",
     "tagline": "Spatial Performance Assessment for Cognitive Evaluation",
     "description": [
@@ -110,6 +91,25 @@
       "https://xeeshanqaswar.github.io/File-Hosting/files/game/SpecialOps/2.jpg",
       "https://xeeshanqaswar.github.io/File-Hosting/files/game/SpecialOps/3.jpg",
       "https://xeeshanqaswar.github.io/File-Hosting/files/game/SpecialOps/4.jpg"
+    ]
+  },
+  {
+    "name": "GI Joe: Wrath of Cobra",
+    "tagline": "2D Beat'em Up Console Game",
+    "description": [
+      "Cobra is a retro side-scrolling beat 'em up. Play as one of the legendary G.I. JOE characters, including Duke, Scarlett, Roadblock, Snake Eyes, and more. Defeat hordes of Cobra troopers, Vipers, Crimson Guards and more of Cobra's malevolent machinations.",
+      "As the lead developer, my role entails overseeing the comprehensive multiplayer implementation of the game, working in partnership with developers from 'Maple Powered Games', utilizing Photon Fusion for this specific task."
+    ],
+    "client": "-",
+    "date": "01/00/2000",
+    "file":"",
+    "stack": [ "Unity", "Multiplayer", "Console", "AI" ],
+    "thumbnail":"https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/thumbnail.jpg",
+    "itemList": [
+      "hhttps://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/1.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/2.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/3.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/4.jpg"
     ]
   }
 ]
