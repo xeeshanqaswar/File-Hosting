@@ -5,8 +5,13 @@
     "client": "-",
     "date": "01/00/2000",
     "link": "-",
+    "file":"",
+    "stack": [ "Unity", "Multiplayer", "WebGL", "AI" ],
     "itemList": [
-      
+      "https://github.com/xeeshanqaswar/File-Hosting/files/game/DuelX/1.jpg",
+      "https://github.com/xeeshanqaswar/File-Hosting/files/game/DuelX/1.jpg",
+      "https://github.com/xeeshanqaswar/File-Hosting/files/game/DuelX/1.jpg",
+      "https://github.com/xeeshanqaswar/File-Hosting/files/game/DuelX/1.jpg"
     ]
   }
 ]
