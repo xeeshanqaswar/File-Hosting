@@ -1,92 +1,144 @@
 [
   {
-    "title": "Dasher",
     "name": "Dasher",
-    "type": "design",
-    "description": "-",
+    "tagline" : "",
     "client": "-",
     "date": "01/00/2000",
-    "link": "-",
-    "imgcount": "1"
+    "thumbnail":"https://xeeshanqaswar.github.io/File-Hosting/files/design/DuelX/display.jpg",
+    "title":"https://xeeshanqaswar.github.io/File-Hosting/files/design/DuelX/title.jpg",
+    "itemList": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/Dasher/1.jpg"
+    ]
   },
   {
-    "title": "HomeGO",
     "name": "Home GO",
-    "type": "design",
-    "description": "-",
+    "tagline" : "",
     "client": "-",
     "date": "01/00/2000",
-    "link": "-",
-    "imgcount": "6"
+    "thumbnail":"https://xeeshanqaswar.github.io/File-Hosting/files/design/HomeGo/display.jpg",
+    "title":"https://xeeshanqaswar.github.io/File-Hosting/files/design/HomeGo/title.jpg",
+    "itemList": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/HomeGo/1.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/HomeGo/2.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/HomeGo/3.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/HomeGo/4.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/HomeGo/5.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/HomeGo/6.jpg"
+    ]
   },
   {
-    "title": "JewelTale",
     "name": "Jewel Tale",
-    "type": "design",
+    "tagline" : "",
     "description": "-",
     "client": "-",
     "date": "01/00/2000",
-    "link": "-",
-    "imgcount": "5"
+    "thumbnail":"https://xeeshanqaswar.github.io/File-Hosting/files/design/JewelTale/display.jpg",
+    "title":"https://xeeshanqaswar.github.io/File-Hosting/files/design/JewelTale/title.jpg",
+    "itemList": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/JewelTale/1.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/JewelTale/2.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/JewelTale/3.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/JewelTale/4.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/JewelTale/5.jpg"
+    ]
   },
   {
-    "title": "Mosaic",
     "name": "Mosaic",
-    "type": "design",
+    "tagline" : "",
     "description": "-",
     "client": "-",
     "date": "01/00/2000",
-    "link": "-",
-    "imgcount": "15"
+    "thumbnail":"https://xeeshanqaswar.github.io/File-Hosting/files/design/Mosaic/display.jpg",
+    "title":"https://xeeshanqaswar.github.io/File-Hosting/files/design/Mosaic/title.jpg",
+    "itemList": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/Mosaic/1.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/Mosaic/2.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/Mosaic/3.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/Mosaic/4.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/Mosaic/5.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/Mosaic/6.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/Mosaic/7.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/Mosaic/8.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/Mosaic/9.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/Mosaic/10.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/Mosaic/12.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/Mosaic/13.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/Mosaic/14.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/Mosaic/15.jpg"
+    ]
   },
   {
-    "title": "MyPerformers",
     "name": "My Performers",
-    "type": "design",
+    "tagline" : "",
     "description": "-",
     "client": "-",
     "date": "01/00/2000",
-    "link": "-",
-    "imgcount": "7"
+    "thumbnail":"https://xeeshanqaswar.github.io/File-Hosting/files/design/MyPerformers/display.jpg",
+    "title":"https://xeeshanqaswar.github.io/File-Hosting/files/design/MyPerformers/title.jpg",
+    "itemList": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/MyPerformers/1.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/MyPerformers/2.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/MyPerformers/3.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/MyPerformers/4.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/MyPerformers/5.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/MyPerformers/6.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/MyPerformers/7.jpg"
+    ]
   },
   {
-    "title": "OlafSportsWebsite",
-    "name": "Olaf Sports",
-    "type": "design",
+    "name": "Olaf Sports (Mobile)",
+    "tagline" : "",
     "description": "-",
     "client": "-",
     "date": "01/00/2000",
-    "link": "-",
-    "imgcount": "4"
+    "thumbnail":"https://xeeshanqaswar.github.io/File-Hosting/files/design/OlafSportsMobile/display.jpg",
+    "title":"https://xeeshanqaswar.github.io/File-Hosting/files/design/OlafSportsMobile/title.jpg",
+    "itemList": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/OlafSportsMobile/1.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/OlafSportsMobile/2.jpg"
+    ]
   },
   {
-    "title": "OlafSportsMobile",
-    "name": "Olaf Sports",
-    "type": "design",
+    "name": "Olaf Sports (Web)",
+    "tagline" : "",
     "description": "-",
     "client": "-",
     "date": "01/00/2000",
-    "link": "-",
-    "imgcount": "2"
+    "thumbnail":"https://xeeshanqaswar.github.io/File-Hosting/files/design/OlafSportsWebsite/display.jpg",
+    "title":"https://xeeshanqaswar.github.io/File-Hosting/files/design/OlafSportsWebsite/title.jpg",
+    "itemList": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/OlafSportsWebsite/1.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/OlafSportsWebsite/2.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/OlafSportsWebsite/3.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/OlafSportsWebsite/4.jpg"
+    ]
   },
   {
-    "title": "TaskFlowPro",
     "name": "TaskFlow Pro",
-    "type": "design",
+    "tagline" : "",
     "description": "-",
     "client": "-",
     "date": "01/00/2000",
-    "link": "-",
-    "imgcount": "1"
+    "thumbnail":"https://xeeshanqaswar.github.io/File-Hosting/files/design/TaskFlowPro/display.jpg",
+    "title":"https://xeeshanqaswar.github.io/File-Hosting/files/design/TaskFlowPro/title.jpg",
+    "itemList": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/TaskFlowPro/1.jpg"
+    ]
   },
   {
-    "title": "W16Mistral",
     "name": "W16 Mistral",
-    "type": "design",
+    "tagline" : "",
     "description": "-",
     "client": "-",
     "date": "01/00/2000",
-    "link": "-",
-    "imgcount": "5"
+    "thumbnail":"https://xeeshanqaswar.github.io/File-Hosting/files/design/W16Mistral/display.jpg",
+    "title":"https://xeeshanqaswar.github.io/File-Hosting/files/design/W16Mistral/title.jpg",
+    "itemList": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/W16Mistral/1.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/W16Mistral/2.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/W16Mistral/3.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/W16Mistral/4.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/design/W16Mistral/5.jpg"
+    ]
   }
 ]
