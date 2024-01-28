@@ -1,7 +1,9 @@
 [
   {
     "name": "Duel X",
-    "description": "Its a 2d multiplayer board game developed for Mobile (iOS and Android), Browsers (HTML5) for mobile and PC. It is an educational number game, helping students advance in multiplication and memorization of tables.",
+    "description": [
+      "Its a 2d multiplayer board game developed for Mobile (iOS and Android), Browsers (HTML5) for mobile and PC. It is an educational number game, helping students advance in multiplication and memorization of tables."
+    ],
     "client": "-",
     "date": "01/00/2000",
     "file":"https://xeeshanqaswar.github.io/File-Hosting/files/game/DuelX/file.apk",
@@ -14,5 +16,95 @@
       "https://xeeshanqaswar.github.io/File-Hosting/files/game/DuelX/4.jpg",
       "https://xeeshanqaswar.github.io/File-Hosting/jsonfiles/game.json"
     ]
+  },
+  {
+    "name": "GI Joe: Wrath of Cobra",
+    "description": [
+      "Cobra is a retro side-scrolling beat 'em up. Play as one of the legendary G.I. JOE characters, including Duke, Scarlett, Roadblock, Snake Eyes, and more. Defeat hordes of Cobra troopers, Vipers, Crimson Guards and more of Cobra's malevolent machinations.",
+      "As the lead developer, my role entails overseeing the comprehensive multiplayer implementation of the game, working in partnership with developers from 'Maple Powered Games', utilizing Photon Fusion for this specific task."
+    ],
+    "client": "-",
+    "date": "01/00/2000",
+    "file":"",
+    "stack": [ "Unity", "Multiplayer", "Console", "AI" ],
+    "thumbnail":"https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/thumbnail.jpg",
+    "itemList": [
+      "hhttps://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/1.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/2.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/3.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/4.jpg"
+    ]
+  },
+  {
+    "name": "Spatial Performance Assessment for Cognitive Evaluation",
+    "description": [
+      "'S.P.A.C.E' is an innovative simulation designed using Unity that I developed for the Singapore-ETH Centre. Based on research conducted by esteemed PhDs from Singapore Eth and aimed to detect varying degrees of cognitive impairment in patients suffering from dementia. Designed to incorporate a range of spatial tasks that effectively assess different aspects of a player's spatial knowledge.",
+      "The aim of the simulation is to test the player's ability to monitor their trajectory in the environment relative to the start location point to different locations in the environment. The game is available on iPad and has been developed keeping in mind the requirements of the target audience."
+    ],
+    "client": "-",
+    "date": "01/00/2000",
+    "file":"",
+    "stack": [ "Unity", "Localization", "Ipad", "AI" ],
+    "thumbnail":"https://xeeshanqaswar.github.io/File-Hosting/files/game/Space/thumbnail.jpg",
+    "itemList": [
+      "hhttps://xeeshanqaswar.github.io/File-Hosting/files/game/Space/1.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/Space/2.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/Space/3.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/Space/4.jpg"
+    ]
+  },
+  {
+    "name": "The Lost Conquerors",
+    "description": [
+      "I completed my university's FYP using Unreal Engine 4, focusing on immersive third-person shooting mechanics and an advanced AI system with behavior trees. I designed and implemented responsive controls, aiming mechanics, and engaging feedback for an immersive player experience. The AI system exhibited human-like behaviors such as taking cover and coordinating attacks. Throughout the project, I adhered to industry standards, optimized performance, and conducted playtesting for a polished gameplay experience. This project highlights my proficiency in game development, showcasing technical skills in Unreal Engine 4 and a passion for delivering high-quality projects within defined timeframes.",
+    ],
+    "client": "University Project",
+    "date": "01/00/2000",
+    "file":"",
+    "stack": [ "UE4", "BehaviourTrees", "PC", "AI" ],
+    "thumbnail":"https://xeeshanqaswar.github.io/File-Hosting/files/game/LConquerors/thumbnail.jpg",
+    "itemList": [
+      "hhttps://xeeshanqaswar.github.io/File-Hosting/files/game/LConquerors/1.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/LConquerors/2.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/LConquerors/3.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/LConquerors/4.jpg"
+    ]
+  },
+  {
+    "name": "Prison Break: Jail Escape Game",
+    "description": [
+      "'Prison Break: Jail Escape Game' is a thrilling third-person stealth game that challenges players to break out of a high-security prison using their wits and cunning. Developed using Unity for Android",
+      "As a player, you'll take on the role of a prisoner who is determined to escape from prison and gain their freedom. To do so, you'll need to complete a series of challenging missions that require you to navigate through the prison's various levels, avoiding guards and other obstacles along the way."
+    ],
+    "client": "-",
+    "date": "01/00/2000",
+    "file":"https://play.google.com/store/apps/details?id=com.ffg.alcatraz.jailbreak.prison.escape",
+    "stack": [ "Unity", "Android" ],
+    "thumbnail":"https://xeeshanqaswar.github.io/File-Hosting/files/game/PrisionBreak/thumbnail.jpg",
+    "itemList": [
+      "hhttps://xeeshanqaswar.github.io/File-Hosting/files/game/PrisionBreak/1.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/PrisionBreak/2.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/PrisionBreak/3.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/PrisionBreak/4.jpg"
+    ]
+  },
+  {
+    "name": "Special Ops FPS Gun Strike 3d",
+    "description": [
+      "3rd person action shooting game that is perfect for fans of the shooter genre. Developed using Unity.",
+      "players take on the role of a special ops agent tasked with completing a series of challenging missions. With a variety of weapons at their disposal, players must use their tactical skills and quick reflexes to take down enemy forces and complete objectives."
+    ],
+    "client": "-",
+    "date": "01/00/2000",
+    "file":"https://play.google.com/store/apps/details?id=com.was.cover.shooter.critical.strike.force",
+    "stack": [ "Unity", "Android" ],
+    "thumbnail":"https://xeeshanqaswar.github.io/File-Hosting/files/game/SpecialOps/thumbnail.jpg",
+    "itemList": [
+      "hhttps://xeeshanqaswar.github.io/File-Hosting/files/game/SpecialOps/1.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/SpecialOps/2.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/SpecialOps/3.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/SpecialOps/4.jpg"
+    ]
   }
 ]
+
