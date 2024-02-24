@@ -21,7 +21,7 @@
     "description": "S.P.A.C.E is an innovative Unity-based simulation developed for the Singapore-ETH Centre, drawing inspiration from research conducted by esteemed PhDs. With a focus on detecting cognitive impairment in dementia patients, the simulation incorporates diverse spatial tasks to assess players' spatial knowledge effectively. The primary aim is to evaluate players' ability to monitor their trajectory in the environment relative to the starting point and navigate to different locations. Specifically designed for iPad, the game caters to the unique requirements of the target audience, offering an engaging and purposeful experience in the realm of cognitive assessment.",
     "client": "-",
     "date": "01/00/2000",
-    "url":"",
+    "url":"https://www.youtube.com/watch?v=Eisi_upeKg4",
     "stack": [ "Unity", "Localization", "Ipad", "AI" ],
     "thumbnail":"https://xeeshanqaswar.github.io/File-Hosting/files/game/Space/thumbnail.jpg",
     "itemList": [
@@ -37,7 +37,7 @@
     "description":"I completed my university's FYP using Unreal Engine 4, focusing on immersive third-person shooting mechanics and an advanced AI system with behavior trees. I designed and implemented responsive controls, aiming mechanics, and engaging feedback for an immersive player experience. The AI system exhibited human-like behaviors such as taking cover and coordinating attacks. Throughout the project, I adhered to industry standards, optimized performance, and conducted playtesting for a polished gameplay experience. This project highlights my proficiency in game development, showcasing technical skills in Unreal Engine 4 and a passion for delivering high-quality projects within defined timeframes.",
     "client": "University Project",
     "date": "01/00/2000",
-    "url":"",
+    "url":"https://youtu.be/OfXjIj2aJ24",
     "stack": [ "UE4", "BehaviourTrees", "PC", "AI" ],
     "thumbnail":"https://xeeshanqaswar.github.io/File-Hosting/files/game/LConquerors/thumbnail.jpg",
     "itemList": [
@@ -83,9 +83,9 @@
     "name": "GI Joe: Wrath of Cobra",
     "tagline": "2D Beat'em Up Console Game",
     "description": "A retro side-scrolling beat 'em up featuring G.I. JOE characters battling Cobra forces. As lead developer, I oversee the multiplayer integration, collaborating with 'Maple Powered Games' and utilizing Photon Fusion for seamless gameplay.",
-    "client": "-",
+    "client": "Hasbro Publishers",
     "date": "01/00/2000",
-    "url":"",
+    "url":"https://www.youtube.com/watch?v=zWeUrH3g4AU&t=3s",
     "stack": [ "Unity", "Multiplayer", "Console", "AI" ],
     "thumbnail":"https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/thumbnail.jpg",
     "itemList": [
