@@ -6,7 +6,12 @@
     "client": "-",
     "date": "01/00/2000",
     "url": "https://xeeshanqaswar.github.io/File-Hosting/files/game/DuelX/file.apk",
-    "stack": [ "Unity", "Multiplayer", "WebGL", "AI" ],
+    "stack": [
+      "Unity",
+      "Multiplayer",
+      "WebGL",
+      "AI"
+    ],
     "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/game/DuelX/thumbnail.jpg",
     "itemList": [
       "https://xeeshanqaswar.github.io/File-Hosting/files/game/DuelX/1.jpg",
@@ -22,8 +27,14 @@
     "client": "-",
     "date": "15/03/2024",
     "url": "https://youtu.be/RopYFYpE5mk",
-    "stack": [ "Unity", "RTS", "IOS", "Android", "C#"],
-    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/game/Space/thumbnail.jpg",
+    "stack": [
+      "Unity",
+      "RTS",
+      "IOS",
+      "Android",
+      "C#"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/game/AscendedKingdom/thumbnail.jpg",
     "itemList": [
       "https://xeeshanqaswar.github.io/File-Hosting/files/game/AscendedKingdom/1.jpg",
       "https://xeeshanqaswar.github.io/File-Hosting/files/game/AscendedKingdom/2.jpg",
@@ -39,7 +50,12 @@
     "client": "-",
     "date": "01/00/2000",
     "url": "https://www.youtube.com/watch?v=Eisi_upeKg4",
-    "stack": [ "Unity", "Localization", "Ipad", "AI" ],
+    "stack": [
+      "Unity",
+      "Localization",
+      "Ipad",
+      "AI"
+    ],
     "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/game/Space/thumbnail.jpg",
     "itemList": [
       "https://xeeshanqaswar.github.io/File-Hosting/files/game/Space/1.jpg",
@@ -55,7 +71,12 @@
     "client": "University Project",
     "date": "01/00/2000",
     "url": "https://youtu.be/OfXjIj2aJ24",
-    "stack": [ "UE4", "BehaviourTrees", "PC", "AI" ],
+    "stack": [
+      "UE4",
+      "BehaviourTrees",
+      "PC",
+      "AI"
+    ],
     "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/game/LConquerors/thumbnail.jpg",
     "itemList": [
       "https://xeeshanqaswar.github.io/File-Hosting/files/game/LConquerors/1.jpg",
@@ -71,7 +92,10 @@
     "client": "-",
     "date": "01/00/2000",
     "url": "https://play.google.com/store/apps/details?id=com.ffg.alcatraz.jailbreak.prison.escape",
-    "stack": [ "Unity", "Android" ],
+    "stack": [
+      "Unity",
+      "Android"
+    ],
     "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/game/PrisionBreak/thumbnail.jpg",
     "itemList": [
       "https://xeeshanqaswar.github.io/File-Hosting/files/game/PrisionBreak/1.jpg",
@@ -87,7 +111,10 @@
     "client": "-",
     "date": "01/00/2000",
     "url": "https://play.google.com/store/apps/details?id=com.was.cover.shooter.critical.strike.force",
-    "stack": [ "Unity", "Android" ],
+    "stack": [
+      "Unity",
+      "Android"
+    ],
     "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/game/SpecialOps/thumbnail.jpg",
     "itemList": [
       "https://xeeshanqaswar.github.io/File-Hosting/files/game/SpecialOps/1.jpg",
@@ -103,7 +130,12 @@
     "client": "Hasbro Publishers",
     "date": "01/00/2000",
     "url": "https://www.youtube.com/watch?v=zWeUrH3g4AU&t=3s",
-    "stack": [ "Unity", "Multiplayer", "Console", "AI" ],
+    "stack": [
+      "Unity",
+      "Multiplayer",
+      "Console",
+      "AI"
+    ],
     "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/thumbnail.jpg",
     "itemList": [
       "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/1.jpg",
@@ -113,4 +145,3 @@
     ]
   }
 ]
-
