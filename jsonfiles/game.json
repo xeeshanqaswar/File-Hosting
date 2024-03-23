@@ -1,5 +1,26 @@
 [
   {
+    "name": "GI Joe: Wrath of Cobra",
+    "tagline": "2D Beat'em Up Console Game",
+    "description": "A retro side-scrolling beat 'em up featuring G.I. JOE characters battling Cobra forces. As lead developer, I oversee the multiplayer integration, collaborating with 'Maple Powered Games' and utilizing Photon Fusion for seamless gameplay.",
+    "client": "Hasbro Publishers",
+    "date": "01/00/2000",
+    "url": "https://www.youtube.com/watch?v=zWeUrH3g4AU&t=3s",
+    "stack": [
+      "Unity",
+      "Multiplayer",
+      "Console",
+      "AI"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/thumbnail.jpg",
+    "itemList": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/1.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/2.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/3.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/4.jpg"
+    ]
+  },
+  {
     "name": "Duel X",
     "tagline": "Multiplatform 2D Multiplayer Board Game",
     "description": "Its a 2d multiplayer board game developed for Mobile (iOS and Android), Browsers (HTML5) for mobile and PC. It is an educational number game, helping students advance in multiplication and memorization of tables.",
@@ -121,27 +142,6 @@
       "https://xeeshanqaswar.github.io/File-Hosting/files/game/SpecialOps/2.jpg",
       "https://xeeshanqaswar.github.io/File-Hosting/files/game/SpecialOps/3.jpg",
       "https://xeeshanqaswar.github.io/File-Hosting/files/game/SpecialOps/4.jpg"
-    ]
-  },
-  {
-    "name": "GI Joe: Wrath of Cobra",
-    "tagline": "2D Beat'em Up Console Game",
-    "description": "A retro side-scrolling beat 'em up featuring G.I. JOE characters battling Cobra forces. As lead developer, I oversee the multiplayer integration, collaborating with 'Maple Powered Games' and utilizing Photon Fusion for seamless gameplay.",
-    "client": "Hasbro Publishers",
-    "date": "01/00/2000",
-    "url": "https://www.youtube.com/watch?v=zWeUrH3g4AU&t=3s",
-    "stack": [
-      "Unity",
-      "Multiplayer",
-      "Console",
-      "AI"
-    ],
-    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/thumbnail.jpg",
-    "itemList": [
-      "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/1.jpg",
-      "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/2.jpg",
-      "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/3.jpg",
-      "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/4.jpg"
     ]
   }
 ]
