@@ -2,15 +2,14 @@
   {
     "name": "GI Joe: Wrath of Cobra",
     "tagline": "2D Beat'em Up Console Game",
-    "description": "A retro side-scrolling beat 'em up featuring G.I. JOE characters battling Cobra forces. As lead developer, I oversee the multiplayer integration, collaborating with 'Maple Powered Games' and utilizing Photon Fusion for seamless gameplay.",
-    "client": "Hasbro Publishers",
+    "description": "A retro side-scrolling beat 'em up featuring G.I. JOE characters battling Cobra forces. As lead developer, I oversee the multiplayer integration, collaborating with 'Maple Powered Games' by utilizing Photon Fusion for Hasbro Publishers.",
+    "genre": "2D Fighting",
+    "platforms": "PC , Switch, PS5, Xbox",
     "date": "01/00/2000",
     "url": "https://www.youtube.com/watch?v=zWeUrH3g4AU&t=3s",
     "stack": [
       "Unity",
-      "Multiplayer",
-      "Console",
-      "AI"
+      "Multiplayer"
     ],
     "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/game/GIJoe/thumbnail.jpg",
     "itemList": [
@@ -24,14 +23,15 @@
     "name": "Duel X",
     "tagline": "Multiplatform 2D Multiplayer Board Game",
     "description": "Its a 2d multiplayer board game developed for Mobile (iOS and Android), Browsers (HTML5) for mobile and PC. It is an educational number game, helping students advance in multiplication and memorization of tables.",
-    "client": "-",
+    "genre": "2D Puzzle",
+    "platforms": "IOS , Android, WebGL",
     "date": "01/00/2000",
-    "url": "https://xeeshanqaswar.github.io/File-Hosting/files/game/DuelX/file.apk",
+    "url": "",
+    "applicationURl": "https://xeeshanqaswar.github.io/File-Hosting/files/game/DuelX/file.apk",
     "stack": [
       "Unity",
-      "Multiplayer",
-      "WebGL",
-      "AI"
+      "Photon Multiplayer",
+      "AI Behaviour"
     ],
     "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/game/DuelX/thumbnail.jpg",
     "itemList": [
@@ -45,12 +45,12 @@
     "name": "Ascended Kingdom",
     "tagline": "RTS Game",
     "description": "Ascended Kingdom is a Unity-based RTS game where players construct and upgrade towns through different eras, command heroes and armies to conquer enemy territories, and engage in strategic warfare for dominance.",
-    "client": "-",
     "date": "15/03/2024",
     "url": "https://youtu.be/RopYFYpE5mk",
+    "genre": "2D RTS",
+    "platforms": "IOS , Android",
     "stack": [
       "Unity",
-      "RTS",
       "IOS",
       "Android",
       "C#"
@@ -68,14 +68,14 @@
     "name": "S.P.A.C.E",
     "tagline": "Spatial Performance Assessment for Cognitive Evaluation",
     "description": "S.P.A.C.E is an innovative Unity-based simulation developed for the Singapore-ETH Centre, drawing inspiration from research conducted by esteemed PhDs. With a focus on detecting cognitive impairment in dementia patients, the simulation incorporates diverse spatial tasks to assess players' spatial knowledge effectively. The primary aim is to evaluate players' ability to monitor their trajectory in the environment relative to the starting point and navigate to different locations. Specifically designed for iPad, the game caters to the unique requirements of the target audience, offering an engaging and purposeful experience in the realm of cognitive assessment.",
-    "client": "-",
     "date": "01/00/2000",
+    "genre": "3D Simulation",
+    "platforms": "IOS",
     "url": "https://www.youtube.com/watch?v=Eisi_upeKg4",
     "stack": [
       "Unity",
       "Localization",
-      "Ipad",
-      "AI"
+      "AI Behaviour"
     ],
     "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/game/Space/thumbnail.jpg",
     "itemList": [
@@ -89,14 +89,13 @@
     "name": "The Lost Conquerors",
     "tagline": "Final year university project",
     "description": "I completed my university's FYP using Unreal Engine 4, focusing on immersive third-person shooting mechanics and an advanced AI system with behavior trees. I designed and implemented responsive controls, aiming mechanics, and engaging feedback for an immersive player experience. The AI system exhibited human-like behaviors such as taking cover and coordinating attacks. Throughout the project, I adhered to industry standards, optimized performance, and conducted playtesting for a polished gameplay experience. This project highlights my proficiency in game development, showcasing technical skills in Unreal Engine 4 and a passion for delivering high-quality projects within defined timeframes.",
-    "client": "University Project",
     "date": "01/00/2000",
+    "genre": "3D TPS",
+    "platforms": "PC",
     "url": "https://youtu.be/OfXjIj2aJ24",
     "stack": [
-      "UE4",
-      "BehaviourTrees",
-      "PC",
-      "AI"
+      "Unreal Engine",
+      "BehaviourTrees"
     ],
     "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/game/LConquerors/thumbnail.jpg",
     "itemList": [
@@ -110,12 +109,13 @@
     "name": "Prison Break: Jail Escape Game",
     "tagline": "TPS prison escape mobile game",
     "description": "'Prison Break: Jail Escape Game' is a thrilling third-person stealth game that challenges players to break out of a high-security prison using their wits and cunning. Developed using Unity for Android. As a player, you'll take on the role of a prisoner who is determined to escape from prison and gain their freedom. To do so, you'll need to complete a series of challenging missions that require you to navigate through the prison's various levels, avoiding guards and other obstacles along the way.",
-    "client": "-",
     "date": "01/00/2000",
-    "url": "https://play.google.com/store/apps/details?id=com.ffg.alcatraz.jailbreak.prison.escape",
+    "genre": "3D TPS",
+    "platforms": "Android",
+    "url": "",
+    "applicationUrl": "https://play.google.com/store/apps/details?id=com.ffg.alcatraz.jailbreak.prison.escape",
     "stack": [
-      "Unity",
-      "Android"
+      "Unity"
     ],
     "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/game/PrisionBreak/thumbnail.jpg",
     "itemList": [
@@ -129,9 +129,11 @@
     "name": "Special Ops FPS Gun Strike 3d",
     "tagline": "TPS mission based mobile game",
     "description": "3rd person action shooting game that is perfect for fans of the shooter genre. Developed using Unity. Players take on the role of a special ops agent tasked with completing a series of challenging missions. With a variety of weapons at their disposal, players must use their tactical skills and quick reflexes to take down enemy forces and complete objectives.",
-    "client": "-",
+    "genre": "3D TPS",
+    "platforms": "Android",
     "date": "01/00/2000",
-    "url": "https://play.google.com/store/apps/details?id=com.was.cover.shooter.critical.strike.force",
+    "url": "",
+    "applicationUrl": "https://play.google.com/store/apps/details?id=com.was.cover.shooter.critical.strike.force",
     "stack": [
       "Unity",
       "Android"
