@@ -31,7 +31,7 @@
     "stack": [
       "Unity",
       "Photon Multiplayer",
-      "AI Behaviour"
+      "AI"
     ],
     "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/game/DuelX/thumbnail.jpg",
     "itemList": [
@@ -52,7 +52,6 @@
     "stack": [
       "Unity",
       "IOS",
-      "Android",
       "C#"
     ],
     "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/game/AscendedKingdom/thumbnail.jpg",
@@ -75,7 +74,7 @@
     "stack": [
       "Unity",
       "Localization",
-      "AI Behaviour"
+      "AI"
     ],
     "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/game/Space/thumbnail.jpg",
     "itemList": [
