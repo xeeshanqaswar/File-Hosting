@@ -1,16 +1,14 @@
 [
   {
     "name": "Dasher",
-    "shortDescription": "Lorem Ipsum",
-    "clientName": "-",
-    "isFeatured": false,
-    "type": "Website Development",
+    "shortDescription": "",
+    "type": "Website",
     "techStack": [
       "UI Design",
       "UX Research",
       "Design System"
     ],
-    "summary": "Lorem Ipsum",
+    "summary": "",
     "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/design/Dasher/display.jpg",
     "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/design/Dasher/title.jpg",
     "portfolioItems": [
@@ -19,15 +17,13 @@
   },
   {
     "name": "Home GO",
-    "shortDescription": "Lorem Ipsum",
-    "clientName": "-",
-    "isFeatured": false,
-    "type": "Mobile App Development",
+    "shortDescription": "",
+    "type": "Mobile App",
     "techStack": [
       "Design System",
       "UI/UX"
     ],
-    "summary": "Lorem Ipsum",
+    "summary": "",
     "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/design/HomeGO/display.jpg",
     "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/design/HomeGO/title.jpg",
     "portfolioItems": [
@@ -41,16 +37,14 @@
   },
   {
     "name": "Mosaic",
-    "shortDescription": "Lorem Ipsum",
-    "clientName": "-",
-    "isFeatured": false,
+    "shortDescription": "",
     "type": "Product Design",
     "techStack": [
       "UI Design",
       "UX Research",
       "Design System"
     ],
-    "summary": "Lorem Ipsum",
+    "summary": "",
     "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/design/Mosaic/display.jpg",
     "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/design/Mosaic/title.jpg",
     "portfolioItems": [
@@ -73,8 +67,6 @@
   {
     "name": "My Performers",
     "shortDescription": "Lorem Ipsum",
-    "clientName": "-",
-    "isFeatured": false,
     "type": "Product Design",
     "techStack": [
       "UI Design",
@@ -97,9 +89,7 @@
   {
     "name": "TaskFlow Pro",
     "shortDescription": "Lorem Ipsum",
-    "clientName": "-",
-    "isFeatured": false,
-    "type": "Website Development",
+    "type": "Website",
     "techStack": [
       "UI Design",
       "UX Research"
