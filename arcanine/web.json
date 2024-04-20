@@ -21,7 +21,7 @@
   },
   {
     "name": "Olaf Sports",
-    "summary": "Lorem Ipsum",
+    "summary": "",
     "link": "",
     "techStack": [
       "UI/UX",
@@ -40,7 +40,7 @@
   },
   {
     "name": "W16 Mistral",
-    "summary": "Lorem Ipsum",
+    "summary": "",
     "link": "",
     "techStack": [
       "UI/UX",
@@ -108,7 +108,7 @@
   {
     "name": "Koa CRM",
     "summary": "",
-    "link": "https://karobarlist.com/",
+    "link": "",
     "techStack": [
       "PHP",
       "Cake PHP",
@@ -119,6 +119,22 @@
     "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/web/koa/display.jpg",
     "portfolioItems": [
       "https://xeeshanqaswar.github.io/File-Hosting/files/web/koa/1.jpg"
+    ]
+  },
+  {
+    "name": "Karobar List",
+    "summary": "",
+    "link": "https://karobarlist.com/",
+    "techStack": [
+      "PHP",
+      "Cake PHP",
+      "Bootstrap",
+      "Javascript"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/web/karobar/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/web/karobar/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/karobar/1.jpg"
     ]
   },
   {
