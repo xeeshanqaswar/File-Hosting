@@ -1,0 +1,235 @@
+[
+  {
+    "name": "Jewel Tale",
+    "summary": "An online marketplace offering a huge variety of 3D Jewelry Designs. Now you can get your perfect jewelry design for any occasion with ease.",
+    "link": "",
+    "techStack": [
+      "Wordpress",
+      "PHP",
+      "Wocommerce",
+      "UI/UX"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/web/JewelTale/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/web/JewelTale/title.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/JewelTale/1.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/JewelTale/2.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/JewelTale/3.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/JewelTale/4.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/JewelTale/5.jpg"
+    ]
+  },
+  {
+    "name": "Olaf Sports",
+    "summary": "Lorem Ipsum",
+    "link": "",
+    "techStack": [
+      "UI/UX",
+      "Wordpress",
+      "Wocommerce",
+      "PHP"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/web/OlafSportsWebsite/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/web/OlafSportsWebsite/title.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/olafsports/1.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/olafsports/2.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/olafsports/3.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/olafsports/4.jpg"
+    ]
+  },
+  {
+    "name": "W16 Mistral",
+    "summary": "Lorem Ipsum",
+    "link": "",
+    "techStack": [
+      "UI/UX",
+      "Bootstrap",
+      "Javascript"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/web/W16Mistral/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/web/W16Mistral/title.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/W16Mistral/1.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/W16Mistral/2.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/W16Mistral/3.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/W16Mistral/4.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/W16Mistral/5.jpg"
+    ]
+  },
+  {
+    "name": "Downloaderr",
+    "summary": "Downloaderr is an exceptional service that allows you to effortlessly and freely download videos or music from the internet. Bid farewell to the inconvenience of installing extra software or searching for online video download services.",
+    "link": "https://downloaderr.com/",
+    "techStack": [
+      "PHP",
+      "Bootstrap",
+      "Javascript"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/web/downloaderr/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/web/downloaderr/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/downloaderr/1.jpg"
+    ]
+  },
+  {
+    "name": "Vested",
+    "summary": "Vested.ca is an equity crowdfunding platform that connects start-up businesses with investors across Canada.",
+    "link": "http://vested.ca/",
+    "techStack": [
+      "PHP",
+      "Codeigniter",
+      "Bootstrap",
+      "Javascript"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/web/downloaderr/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/web/downloaderr/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/vested/1.jpg"
+    ]
+  },
+  {
+    "name": "Yoomondo",
+    "summary": "Yoomondo is a digital welcome tablet and app for holiday rental properties that guests can use to discover and book local activities recommended by the rental owner/manager.",
+    "link": "https://www.yoomondo.com/",
+    "techStack": [
+      "PHP",
+      "Codeigniter",
+      "Google Cloud",
+      "Bootstrap",
+      "Javascript"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/web/yoomondo/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/web/yoomondo/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/yoomondo/1.jpg"
+    ]
+  },
+  {
+    "name": "Koa CRM",
+    "summary": "",
+    "link": "https://karobarlist.com/",
+    "techStack": [
+      "PHP",
+      "Cake PHP",
+      "Bootstrap",
+      "Javascript"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/web/koa/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/web/koa/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/koa/1.jpg"
+    ]
+  },
+  {
+    "name": "Autogenie",
+    "summary": "Auto Genie - Car repairs service is one stop solution for all your motoring needs. Get your car fixed and maintained at your doorstep (Home or Office) through easy online bookings in Lahore.",
+    "link": "https://autogenie.co.uk/",
+    "techStack": [
+      "PHP",
+      "Cake PHP",
+      "Bootstrap",
+      "Javascript"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/web/autogenie/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/web/autogenie/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/autogenie/1.jpg"
+    ]
+  },
+  {
+    "name": "li-lacchocolates",
+    "summary": "Makers of finest organic, and vegan chocolates, Long Island Chocolate is handmade at our production facility in New York.",
+    "link": "https://www.li-lacchocolates.com/",
+    "techStack": [
+      "PHP",
+      "Cake PHP",
+      "Bootstrap",
+      "Javascript"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/web/lacchocolates/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/web/lacchocolates/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/lacchocolates/1.jpg"
+    ]
+  },
+  {
+    "name": "Kolap Restaurant",
+    "summary": "",
+    "link": "https: //kolaprestaurant.com/",
+    "techStack": [
+      "MERN",
+      "Javascript",
+      "Bootstrap"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/web/kolaprestaurant/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/web/kolaprestaurant/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/kolaprestaurant/1.jpg"
+    ]
+  },
+  {
+    "name": "Homes Go Fast",
+    "summary": "",
+    "link": "https://www.homesgofast.com/",
+    "techStack": [
+      "PHP",
+      "Cake PHP",
+      "Bootstrap",
+      "Javascript"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/web/homesgofast/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/web/homesgofast/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/homesgofast/1.jpg"
+    ]
+  },
+  {
+    "name": "Canvasrx",
+    "summary": "",
+    "link": "https: //canvasrx.com/",
+    "techStack": [
+      "PHP",
+      "Cake PHP",
+      "Bootstrap",
+      "Javascript"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/web/canvasrx/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/web/canvasrx/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/canvasrx/1.jpg"
+    ]
+  },
+  {
+    "name": "Stopdedief",
+    "summary": "Webstore selling security cameras.",
+    "link": "https://www.stopdedief.be/",
+    "techStack": [
+      "PHP",
+      "Wordpress",
+      "Bootstrap",
+      "Javascript"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/web/stopdedief/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/web/stopdedief/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/stopdedief/1.jpg"
+    ]
+  },
+  {
+    "name": "Stopdedief",
+    "summary": "Webstore selling security cameras.",
+    "link": "https://www.stopdedief.be/",
+    "techStack": [
+      "PHP",
+      "Wordpress",
+      "Bootstrap",
+      "Javascript"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/web/stopdedief/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/web/stopdedief/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/web/stopdedief/1.jpg"
+    ]
+  }
+]
