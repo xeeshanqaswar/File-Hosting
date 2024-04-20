@@ -215,21 +215,5 @@
     "portfolioItems": [
       "https://xeeshanqaswar.github.io/File-Hosting/files/web/stopdedief/1.jpg"
     ]
-  },
-  {
-    "name": "Stopdedief",
-    "summary": "Webstore selling security cameras.",
-    "link": "https://www.stopdedief.be/",
-    "techStack": [
-      "PHP",
-      "Wordpress",
-      "Bootstrap",
-      "Javascript"
-    ],
-    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/web/stopdedief/display.jpg",
-    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/web/stopdedief/display.jpg",
-    "portfolioItems": [
-      "https://xeeshanqaswar.github.io/File-Hosting/files/web/stopdedief/1.jpg"
-    ]
   }
 ]
