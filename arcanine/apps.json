@@ -1,0 +1,208 @@
+[
+  {
+    "name": "Humanity",
+    "summary": "The Humanity mobile app for employees is a natively developed companion app to the world-class employee scheduling platform of the same name. The app helps employees stay in the loop and connect more easily with their workplace and colleagues.",
+    "Link": "https://play.google.com/store/apps/details?id=com.humanity.apps.humanityV3&hl=en&gl=US",
+    "Platform": [
+      "Android",
+      "IOS"
+    ],
+    "techStack": [
+      "Javascript",
+      "Typescript",
+      "Redux",
+      "React Native"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/apps/humanity/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/apps/humanity/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/apps/humanity/1.jpg"
+    ]
+  },
+  {
+    "name": "TCP MobileClock",
+    "summary": "TCP MobileClock is part of a workforce management solution that is meant to make the day-to-day easier; everything an employee can do in the app is granted by managers. This helps you make your employees more efficient by ensuring they have the mobile tools they need to succeed in today’s dynamic working environment while you continue to manage their access and avoid confusion.",
+    "Link": "https://play.google.com/store/apps/details?id=com.timeclockplus.MobileClock&hl=en&gl=US",
+    "Platform": [
+      "Android",
+      "IOS"
+    ],
+    "techStack": [
+      "Javascript",
+      "Typescript",
+      "Redux",
+      "React Native"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/apps/mobileclock/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/apps/mobileclock/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/apps/mobileclock/1.jpg"
+    ]
+  },
+  {
+    "name": "It's Relevant",
+    "summary": "This App for Android, Amazon and Apple TV boxes provides you with a direct connection to all of the benefits of a custom TV network from It's Relevant. App puts the true power of television into the hands of business owners. From local storefronts, medical offices, restaurants, and salons to sports arenas, theatres, hotels and car dealerships, the networks work uniquely for each and every location.",
+    "Link": "https://www.amazon.com/Its-Relevant-LLC/dp/B085VZ1FQB",
+    "Platform": [
+      "Smart TV",
+      "Android TV",
+      "Amazon",
+      "Apple TV Box"
+    ],
+    "techStack": [
+      "Javascript",
+      "Typescript",
+      "Redux",
+      "React Native"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/apps/relevant/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/apps/relevant/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/apps/relevant/1.jpg"
+    ]
+  },
+  {
+    "name": "24/7 Postal",
+    "summary": "This app allows users to book a Private Hire vehicle from 24/7 Postal to their local with 24hr delivery service.",
+    "Link": "https://play.google.com/store/apps/details?id=com.postal",
+    "Platform": [
+      "Android"
+    ],
+    "techStack": [
+      "Flutter",
+      "Dart"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/apps/postal/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/apps/postal/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/apps/postal/1.jpg"
+    ]
+  },
+  {
+    "name": "Topwater Tracker",
+    "summary": "Topwater Tracker in an online tournament management system that was been developed and managed by Anglers and Tournament Directors for the Anglers and Directors.",
+    "Link": "https://appadvice.com/app/topwater/1509975728",
+    "Platform": [
+      "IOS"
+    ],
+    "techStack": [
+      "Flutter",
+      "Dart"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/apps/topwater/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/apps/topwater/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/apps/topwater/1.jpg"
+    ]
+  },
+  {
+    "name": "Karobarlist",
+    "summary": "Karobarlist provides many service providers who are just a call away. After using their services please always leave you feedback to help the business and other to determine if the professional was good or was incapable of providing the service user has listed.",
+    "Link": "https://play.google.com/store/apps/details?id=com.karobarlist.react&hl=en&gl=US",
+    "Platform": [
+      "Android"
+    ],
+    "techStack": [
+      "React Native",
+      "Javascript",
+      "Redux"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/apps/karobarlist/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/apps/karobarlist/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/apps/karobarlist/1.jpg"
+    ]
+  },
+  {
+    "name": "Boat Challenge",
+    "summary": "Boats UI challenge implemented in React Native.",
+    "Link": "https://github.com/naeemqaswar/boats-challenge-rn",
+    "Platform": [
+      "Android",
+      "IOS"
+    ],
+    "techStack": [
+      "React Native",
+      "Javascript",
+      "Typescript"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/apps/boatchallange/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/apps/boatchallange/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/apps/boatchallange/1.jpg"
+    ]
+  },
+  {
+    "name": "StayEase",
+    "summary": "StayEase created with React Native, based on a design concept found on UpLabs, showing a bit different perspective about how the listing and detail of a booking can be displayed in a mobile app.",
+    "Link": "https://drive.google.com/file/d/1EldUfRZPt2q2Pt0KOSpwaTFvTQ2SgBme/view",
+    "Platform": [
+      "Android"
+    ],
+    "techStack": [
+      "React Native",
+      "Javascript",
+      "Typescript"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/apps/stayease/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/apps/stayease/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/apps/stayease/1.jpg"
+    ]
+  },
+  {
+    "name": "BILLI Pay",
+    "summary": "BILLI and our BILLIPay platform connect all your needs when you are paying or want to get paid – seamlessly and efficiently – saving you enormous amounts of time and money. We do this by integrating bills, accounts, invoicing and payment systems all in one easy to use app.",
+    "Link": "https://apps.apple.com/au/app/billi/id1499925063",
+    "Platform": [
+      "Android",
+      "IOS"
+    ],
+    "techStack": [
+      "Flutter",
+      "Dart"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/apps/corona/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/apps/corona/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/apps/corona/1.jpg"
+    ]
+  },
+  {
+    "name": "AviationGear App",
+    "summary": "The one-stop shop for the overwhelmed Snacko, Mess Officer, Booster Club, and Corporate Buyer. AviatorGear is your panic button when you need BOTOT and you need it right...the first time. We make your life easier with free design and sticking to a production timeline you can count on.",
+    "Link": "https://marketplace.vteamslabs.com/mobileapp/18-01-2023/marketplace.apk",
+    "Platform": [
+      "Android",
+      "IOS"
+    ],
+    "techStack": [
+      "Flutter",
+      "Dart"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/apps/aviationgear/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/apps/aviationgear/display.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/apps/aviationgear/1.jpg"
+    ]
+  },
+  {
+    "name": "Olaf Sports",
+    "summary": "Lorem Ipsum",
+    "link": "",
+    "Platform": [
+      "Android",
+      "IOS"
+    ],
+    "techStack": [
+      "Flutter",
+      "Dart"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/web/OlafSportsMobile/display.jpg",
+    "banner": "https://xeeshanqaswar.github.io/File-Hosting/files/web/OlafSportsMobile/title.jpg",
+    "portfolioItems": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/apps/OlafSportsMobile/1.jpg",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/apps/OlafSportsMobile/2.jpg"
+    ]
+  }
+]
