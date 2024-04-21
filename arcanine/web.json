@@ -1,7 +1,7 @@
 [
   {
     "name": "Jewel Tale",
-    "summary": "An online marketplace offering a huge variety of 3D Jewelry Designs. Now you can get your perfect jewelry design for any occasion with ease.",
+    "summary": "Jeweltale is your premier destination for exquisite jewelry showcased in an elegant online platform. Our e-commerce site, built on WordPress, WooCommerce, and PHP, ensures a seamless shopping experience with secure transactions. Explore our collection from any device with ease, and discover the perfect piece to elevate your style with timeless sophistication.",
     "link": "",
     "techStack": [
       "Wordpress",
@@ -21,7 +21,7 @@
   },
   {
     "name": "Olaf Sports",
-    "summary": "",
+    "summary": "Olaf Sports Apparel offers top-notch athletic attire through our professional e-commerce site. With WordPress, WooCommerce, and PHP, shopping is secure and seamless. Discover high-performance gear and stylish activewear today.",
     "link": "",
     "techStack": [
       "UI/UX",
@@ -40,8 +40,8 @@
   },
   {
     "name": "W16 Mistral",
-    "summary": "",
-    "link": "",
+    "summary": "The W16 Mistral website is all about showcasing products with detailed specs, viewpoints, and performance insights. It's designed to work smoothly on any device—whether you're browsing on the web, tablet, or mobile. We've built it using HTML5, CSS3, Bootstrap, and JavaScript, ensuring a seamless experience. Plus, its design is customizable to fit any brand identity seamlessly.",
+    "link": "https://relevant-functions-044428.framer.app/",
     "techStack": [
       "UI/UX",
       "Bootstrap",
@@ -59,7 +59,7 @@
   },
   {
     "name": "Downloaderr",
-    "summary": "Downloaderr is an exceptional service that allows you to effortlessly and freely download videos or music from the internet. Bid farewell to the inconvenience of installing extra software or searching for online video download services.",
+    "summary": "Downloaderr stands out as an exceptional service, empowering users to seamlessly download videos or music from the internet with ease and at no cost. Say goodbye to the hassle of installing additional software or scouring the web for online video download solutions. Built with Bootstrap, PHP, and JavaScript, Downloaderr ensures a smooth and intuitive experience, providing a convenient way to access your favorite media content effortlessly.",
     "link": "https://downloaderr.com/",
     "techStack": [
       "PHP",
@@ -74,7 +74,7 @@
   },
   {
     "name": "Vested",
-    "summary": "Vested.ca is an equity crowdfunding platform that connects start-up businesses with investors across Canada.",
+    "summary": "Vested.ca is a premier equity crowdfunding platform, linking Canadian start-ups with investors nationwide. Powered by PHP, Bootstrap, CodeIgniter, and JavaScript, it provides a seamless and secure environment for entrepreneurs and investors to connect and explore opportunities efficiently. Experience streamlined investment processes and foster growth within Canada's vibrant entrepreneurial ecosystem with Vested.ca.",
     "link": "http://vested.ca/",
     "techStack": [
       "PHP",
@@ -90,7 +90,7 @@
   },
   {
     "name": "Yoomondo",
-    "summary": "Yoomondo is a digital welcome tablet and app for holiday rental properties that guests can use to discover and book local activities recommended by the rental owner/manager.",
+    "summary": "Yoomondo revolutionizes holiday rental experiences with its digital welcome tablet and app. Guests effortlessly discover and book local activities recommended by property owners/managers. Powered by PHP, Bootstrap, CodeIgniter, Google Cloud, and JavaScript, Yoomondo ensures a seamless, secure, and user-friendly experience for all. Elevate your guests' stay with Yoomondo, providing curated local experiences at their fingertips.",
     "link": "https://www.yoomondo.com/",
     "techStack": [
       "PHP",
@@ -107,7 +107,7 @@
   },
   {
     "name": "Koa CRM",
-    "summary": "",
+    "summary": "KAO CRM is a robust Customer Relationship Management platform tailored for efficiently supervising city routes and transport movement details. Developed with PHP, Cake PHP, Bootstrap, and Javascript, it offers streamlined insights essential for optimized urban transportation logistics.",
     "link": "",
     "techStack": [
       "PHP",
@@ -123,7 +123,7 @@
   },
   {
     "name": "Karobar List",
-    "summary": "",
+    "summary": "Karobar List is a sophisticated professional hiring platform meticulously designed to facilitate the recruitment of skilled professionals across diverse fields of expertise. Built using PHP, Cake PHP, Bootstrap, and Javascript, this platform streamlines the process of connecting with professionals effortlessly. Experience seamless access to a wide array of talent, empowering you to efficiently engage with professionals to meet your business needs.",
     "link": "https://karobarlist.com/",
     "techStack": [
       "PHP",
@@ -139,7 +139,7 @@
   },
   {
     "name": "Autogenie",
-    "summary": "Auto Genie - Car repairs service is one stop solution for all your motoring needs. Get your car fixed and maintained at your doorstep (Home or Office) through easy online bookings in Lahore.",
+    "summary": "Auto Genie - Car Repair Service offers a comprehensive solution for all your automotive requirements. Experience convenience and reliability as our platform enables you to effortlessly schedule car repairs and maintenance services at your doorstep, whether at home or office, through seamless online bookings in Lahore. Developed with PHP, Cake PHP, Bootstrap, and Javascript, our platform ensures a seamless and professional experience, providing peace of mind for all your motoring needs.",
     "link": "https://autogenie.co.uk/",
     "techStack": [
       "PHP",
@@ -155,7 +155,7 @@
   },
   {
     "name": "li-lacchocolates",
-    "summary": "Makers of finest organic, and vegan chocolates, Long Island Chocolate is handmade at our production facility in New York.",
+    "summary": "Long Island Chocolate prides itself on crafting the finest organic and vegan chocolates, meticulously handmade at our state-of-the-art production facility located in New York. Developed with precision using PHP, Cake PHP, Bootstrap, and Javascript, our platform ensures a seamless and professional experience, delivering delectable treats that embody our commitment to quality and sustainability.",
     "link": "https://www.li-lacchocolates.com/",
     "techStack": [
       "PHP",
@@ -171,7 +171,7 @@
   },
   {
     "name": "Kolap Restaurant",
-    "summary": "",
+    "summary": "Kolap Restaurant is synonymous with a rich family legacy and the authentic flavors of Cambodian cuisine, proudly serving the Summit-University neighborhood of Saint Paul since 2003. Nestled within the historic American Hotel lineup, our establishment promises an unparalleled dining experience. Developed with expertise using the MERN stack, Bootstrap, and Javascript, our platform ensures seamless operations, reflecting our dedication to both tradition and innovation in culinary excellence.",
     "link": "https: //kolaprestaurant.com/",
     "techStack": [
       "MERN",
@@ -186,7 +186,7 @@
   },
   {
     "name": "Homes Go Fast",
-    "summary": "",
+    "summary": "Home Go Fast stands as a premier e-commerce platform dedicated to facilitating the streamlined discovery, purchase, and sale of properties abroad. Developed with meticulous attention to detail using PHP, Cake PHP, Bootstrap, and Javascript, our platform offers a professional and user-friendly experience. Whether you're seeking to invest, buy, or sell real estate internationally, Home Go Fast provides the tools and resources necessary to navigate the process efficiently and effectively.",
     "link": "https://www.homesgofast.com/",
     "techStack": [
       "PHP",
@@ -202,7 +202,7 @@
   },
   {
     "name": "Canvasrx",
-    "summary": "",
+    "summary": "Canvasrx stands as a premier healthcare website, serving as Canada's leading medical cannabis resource. Our platform is meticulously crafted to provide comprehensive services, assisting users in finding the ideal cannabis strain to meet their individual needs. Developed with precision using PHP, Cake PHP, Bootstrap, and Javascript, Canvasrx offers a professional and intuitive experience. Whether you're seeking relief from medical conditions or exploring wellness options, rely on Canvasrx to guide you toward informed and personalized decisions in your healthcare journey.",
     "link": "https: //canvasrx.com/",
     "techStack": [
       "PHP",
@@ -218,7 +218,7 @@
   },
   {
     "name": "Stopdedief",
-    "summary": "Webstore selling security cameras.",
+    "summary": "Stopdedief is a distinguished web-store specializing in the retail of cutting-edge security cameras. Developed with precision using PHP, WordPress, Bootstrap, and Javascript, our platform ensures a seamless and secure shopping experience. With a commitment to safeguarding your property and peace of mind, Stopdedief offers a comprehensive range of surveillance solutions tailored to meet diverse security needs. Trust in our expertise and technological prowess to provide you with the utmost protection for your home or business.",
     "link": "https://www.stopdedief.be/",
     "techStack": [
       "PHP",
