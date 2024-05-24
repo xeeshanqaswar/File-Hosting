@@ -172,7 +172,7 @@
   {
     "name": "Kolap Restaurant",
     "summary": "Kolap Restaurant is synonymous with a rich family legacy and the authentic flavors of Cambodian cuisine, proudly serving the Summit-University neighborhood of Saint Paul since 2003. Nestled within the historic American Hotel lineup, our establishment promises an unparalleled dining experience. Developed with expertise using the MERN stack, Bootstrap, and Javascript, our platform ensures seamless operations, reflecting our dedication to both tradition and innovation in culinary excellence.",
-    "link": "https: //kolaprestaurant.com/",
+    "link": "https://kolaprestaurant.com/",
     "techStack": [
       "MERN",
       "Javascript",
@@ -203,7 +203,7 @@
   {
     "name": "Canvasrx",
     "summary": "Canvasrx stands as a premier healthcare website, serving as Canada's leading medical cannabis resource. Our platform is meticulously crafted to provide comprehensive services, assisting users in finding the ideal cannabis strain to meet their individual needs. Developed with precision using PHP, Cake PHP, Bootstrap, and Javascript, Canvasrx offers a professional and intuitive experience. Whether you're seeking relief from medical conditions or exploring wellness options, rely on Canvasrx to guide you toward informed and personalized decisions in your healthcare journey.",
-    "link": "https: //canvasrx.com/",
+    "link": "https://canvasrx.com/",
     "techStack": [
       "PHP",
       "Cake PHP",

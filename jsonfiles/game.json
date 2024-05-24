@@ -85,6 +85,25 @@
     ]
   },
   {
+    "name": "AfriQuiz Brain Test",
+    "tagline": "-",
+    "description": "",
+    "date": "01/00/2000",
+    "genre": "Learning app",
+    "platforms": "IOS , Android",
+    "url": "https://play.google.com/store/apps/details?id=com.afriquiz",
+    "stack": [
+      "Unity",
+      "Google Sheets SDK"
+    ],
+    "thumbnail": "https://xeeshanqaswar.github.io/File-Hosting/files/game/Space/thumbnail.jpg",
+    "itemList": [
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/AfriQuiz/1.png",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/AfriQuiz/2.png",
+      "https://xeeshanqaswar.github.io/File-Hosting/files/game/AfriQuiz/3.png"
+    ]
+  },
+  {
     "name": "The Lost Conquerors",
     "tagline": "Final year university project",
     "description": "I completed my university's FYP using Unreal Engine 4, focusing on immersive third-person shooting mechanics and an advanced AI system with behavior trees. I designed and implemented responsive controls, aiming mechanics, and engaging feedback for an immersive player experience. The AI system exhibited human-like behaviors such as taking cover and coordinating attacks. Throughout the project, I adhered to industry standards, optimized performance, and conducted playtesting for a polished gameplay experience. This project highlights my proficiency in game development, showcasing technical skills in Unreal Engine 4 and a passion for delivering high-quality projects within defined timeframes.",
